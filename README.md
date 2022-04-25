@@ -24,15 +24,6 @@ This working group is part of the Green Software Foundation. It is open to any m
 
 - Make sure you have joined the GSF slack and have introduced yourself in the #wg-policy slack channel.
 
-## Copyright
-Standard WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-## License
-Standard WG projects are licensed under the MIT License - see the [LICENSE.md](licenses/standards-wg-license.md) file for details
-
-## Patent
-Standard WG projects operate under the W3C Patent Mode.
-
 ## Collaborating With the WG
 
 1. Create a [new Issue](https://github.com/Green-Software-Foundation/standards_wg/issues/new)
