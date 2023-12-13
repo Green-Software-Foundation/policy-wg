@@ -5,8 +5,9 @@
 - Managing projects related to the green certification of products and services.
 
 ## Appointments 
-- Chair - Chris Adams (Green Web Foundation)
-- Chair - Elise Zelechowski (Thoughtworks)
+Chair: Chris Adams    | The Green Web Foundation <br>
+Chair: Lisa Mcnally   | ThoughtWorks<br>
+Chair: Michael Muller | Re:cinq<br>
 
 ## Projects
 
