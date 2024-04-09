@@ -1,0 +1,30 @@
+name:  Action Item
+description: Task Action Item 
+title: "[AI]"
+labels: ["Action Item"]
+projects: ["Policy"]
+assignees:
+ - mrchrisadams
+ - muemich
+ - lisamcnally
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Outline Action Item Details
+      description: 
+      placeholder: Tell us what you see
+      value: "Add details"
+    validations:
+      required: true
+  - type: dropdown
+    id: TF-Groups
+    attributes:
+      label: Issue dependency with other TF Groups
+      multiple: true
+      options:
+        - No Dependency
+        - Standards-WG
+        - Community-WG
+        - Opensource-WG
+
