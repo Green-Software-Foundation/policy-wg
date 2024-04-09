@@ -4,9 +4,9 @@ title: "[Documentation]"
 labels: ["documentation"]
 projects: ["Policy"]
 assignees: 
-- mrchrisadams
-- muemich
-- lisamcnally
+ - mrchrisadams
+ - muemich
+ - lisamcnally
 body:
   - type: textarea
     id: what-happened
