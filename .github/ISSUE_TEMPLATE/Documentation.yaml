@@ -24,6 +24,6 @@ body:
       multiple: true
       options:
         - No Dependency
-        - Standards WG
-        - Community WG
-        - Standards WG
+        - Standards-WG
+        - Community-WG
+        - Standards-WG
