@@ -7,7 +7,6 @@ assignees:
 - mrchrisadams
 - muemich
 - lisamcnally
-
 body:
   - type: textarea
     id: what-happened
