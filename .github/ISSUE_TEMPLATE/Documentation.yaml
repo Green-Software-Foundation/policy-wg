@@ -1,0 +1,30 @@
+name:  Documentation
+description: Issue associated with Documentation
+title: "[Documentation]"
+labels: ["documentation"]
+projects: ["Policy"]
+assignees: 
+- mrchrisadams
+- muemich
+- lisamcnally
+
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Outline Documentation Details
+      description: 
+      placeholder: Outline Documentation Details
+      value: "Add details"
+    validations:
+      required: true
+  - type: dropdown
+    id: WG-Groups
+    attributes:
+      label: Issue dependency with other WG Groups
+      multiple: true
+      options:
+        - No Dependency
+        - Standards WG
+        - Community WG
+        - Standards WG
