@@ -23,7 +23,7 @@
 - Advancing energy efficiency measures within data center operations. 
 - Expanding access to renewable energy through long-term PPAs & utility partnerships. 
 
-**5. Policy Recommendations **
+**5. Policy Recommendations**
 
 **For Grid Resilience & Reliability:**
 - Incentives for data centers to invest in on-site generation & microgrids. 
