@@ -6,8 +6,7 @@
 
 ## Appointments 
 Chair: Chris Adams    | The Green Web Foundation <br>
-Chair: Lisa Mcnally   | ThoughtWorks<br>
-Chair: Michael Muller | Re:cinq<br>
+Chair: Aya Saeed   | Scope 3<br>
 
 ## Projects
 
