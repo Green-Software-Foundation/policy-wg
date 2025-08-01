@@ -1,5 +1,14 @@
 # GSF Policy WG
 
+## Mission Statement 
+
+The Policy Working Group (PWG) is a nonpartisan convening body that translates technical expertise in sustainable software into actionable policy insights. As part of a 501(c)(6) organization, we actively identify and advocate for policies that encourage the reduction of carbon emissions from software. 
+
+Our Approach: We build credible engagement through technical expertise, identify strategic opportunities to influence sustainable software policy, maintain consistency between our stated goals and actions, operate with full transparency about our positions and outcomes, and hold ourselves accountable for the impact of our policy work through regular review and reporting.
+
+- [Full Mission Statement details](https://github.com/Green-Software-Foundation/policy-wg/blob/main/pwg-mission-statement.md)
+
+
 ## Scope
 - Engaging with external bodies and campaigns, commenting on existing or proposed policy related to green software as well as creating our own policy proposals.
 - Managing projects related to the green certification of products and services.
